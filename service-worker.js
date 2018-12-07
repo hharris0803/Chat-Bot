@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Chat-Bot/app/precache-manifest.c33d0952afb6b459745ca01a32ec2332.js"
+  "/Chat-Bot/precache-manifest.a1972027d12c9e0c7c0cafe84b05112c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Chat-Bot/app/index.html", {
+workbox.routing.registerNavigationRoute("/Chat-Bot/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

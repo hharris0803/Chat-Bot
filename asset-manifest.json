@@ -1,13 +1,13 @@
 {
-  "main.js": "/Chat-Bot/app/static/js/main.dab0e737.chunk.js",
-  "main.js.map": "/Chat-Bot/app/static/js/main.dab0e737.chunk.js.map",
-  "static/css/1.26b31052.chunk.css": "/Chat-Bot/app/static/css/1.26b31052.chunk.css",
-  "static/js/1.845bcedb.chunk.js": "/Chat-Bot/app/static/js/1.845bcedb.chunk.js",
-  "static/js/1.845bcedb.chunk.js.map": "/Chat-Bot/app/static/js/1.845bcedb.chunk.js.map",
-  "runtime~main.js": "/Chat-Bot/app/static/js/runtime~main.e47c5060.js",
-  "runtime~main.js.map": "/Chat-Bot/app/static/js/runtime~main.e47c5060.js.map",
-  "static/css/1.26b31052.chunk.css.map": "/Chat-Bot/app/static/css/1.26b31052.chunk.css.map",
-  "index.html": "/Chat-Bot/app/index.html",
-  "precache-manifest.c33d0952afb6b459745ca01a32ec2332.js": "/Chat-Bot/app/precache-manifest.c33d0952afb6b459745ca01a32ec2332.js",
-  "service-worker.js": "/Chat-Bot/app/service-worker.js"
+  "main.js": "/Chat-Bot/static/js/main.dab0e737.chunk.js",
+  "main.js.map": "/Chat-Bot/static/js/main.dab0e737.chunk.js.map",
+  "static/css/1.26b31052.chunk.css": "/Chat-Bot/static/css/1.26b31052.chunk.css",
+  "static/js/1.845bcedb.chunk.js": "/Chat-Bot/static/js/1.845bcedb.chunk.js",
+  "static/js/1.845bcedb.chunk.js.map": "/Chat-Bot/static/js/1.845bcedb.chunk.js.map",
+  "runtime~main.js": "/Chat-Bot/static/js/runtime~main.3ed921dc.js",
+  "runtime~main.js.map": "/Chat-Bot/static/js/runtime~main.3ed921dc.js.map",
+  "static/css/1.26b31052.chunk.css.map": "/Chat-Bot/static/css/1.26b31052.chunk.css.map",
+  "index.html": "/Chat-Bot/index.html",
+  "precache-manifest.a1972027d12c9e0c7c0cafe84b05112c.js": "/Chat-Bot/precache-manifest.a1972027d12c9e0c7c0cafe84b05112c.js",
+  "service-worker.js": "/Chat-Bot/service-worker.js"
 }
