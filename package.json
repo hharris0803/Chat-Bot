@@ -2,7 +2,7 @@
   "name": "chatbot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hharris0803.github.io.git/helensbot/",
+  "homepage": "https://hharris0803.github.io/Chat-Bot",
   "dependencies": {
     "api-ai-javascript": "^2.0.0-beta.21",
     "gh-pages": "^2.0.1",
